@@ -80,9 +80,21 @@ footer {
     display: block;
   }
 
-  .sidebar {
+  .step-box {
+    width: 90%;
+    margin:20px;
+  }
+
+  .step-img1 {
     width: 100%;
-    padding-left: 3%;
-    padding-right: 3%;
+  }
+
+  .step-img2 {
+    width: 100%;
+  }
+
+  .step-img3 {
+    width: 100%;
+  }
   }
 }
